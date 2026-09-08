@@ -4,4 +4,5 @@ This is a demo for git on github class.
 Shraddha Khapra
 # Student
 Liam LivingSton
- 
+
+ revisig the git and github concpets "polishing".
